@@ -1,0 +1,17 @@
+.alto-contraste {
+    background-color: #141414;
+    color: #fff;
+}
+
+.alto-contraste form {
+    background-color: #171616;
+    border: 2px solid #fff;
+}
+
+.alto-contraste input,
+.alto-contraste select,
+.alto-contraste button {
+    background-color: #151414;
+    color: #fff;
+    border: 1px solid #fff;
+}
